@@ -1,4 +1,3 @@
-# Open-datasets
 Awesome Public Datasets
 =======================
 
@@ -1610,15 +1609,6 @@ Complementary Collections
 * OpenDataMonitor: `An overview of available open data resources in Europe <http://opendatamonitor.eu>`_
 
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
-
-* RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
-
-* StaTrek: `Leveraging open data to understand urban lives <http://caesar0301.github.io/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
-
-* CV Papers: `CV Datasets on the web <http://www.cvpapers.com/datasets.html/>`_
-
-* CVonline: `Image Databases <http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm/>`_
-
 
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 
